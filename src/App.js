@@ -6,9 +6,14 @@ import MySection from './components/styles/section';
 function App() {
   return (
     <div className="App">
+
      <MySection/>
+
+         
+
     </div>
   );
 }
+
 
 export default App;
