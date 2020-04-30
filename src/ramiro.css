@@ -1,0 +1,21 @@
+.App {
+    display: flex;
+    background-color: red;
+    height: 1000px;
+    width: 1000px;
+}
+
+.container {
+    display: flex;
+    background-color: purple;
+    height: 800px;
+    width: 800px;
+}
+.child1 {
+    display: flex;
+    background-color: blue;
+}
+.child2 {
+    display: flex;
+    background-color: yellow;
+}

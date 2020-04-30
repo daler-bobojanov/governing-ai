@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    background-color: red;
+}
+.child1 {
+    display: flex;
+    background-color: blue;
+}
+.child2 {
+    display: flex;
+    background-color: yellow;
+}
+
