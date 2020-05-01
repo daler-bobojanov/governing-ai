@@ -20,5 +20,5 @@
 .child2 {
     display: flex;
     flex: 80%;
-    background-color: yellow;
+    background: url('assets/background.jpg') content-box;
 }
