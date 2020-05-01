@@ -1,5 +1,5 @@
 import React from 'react';
-import './ramiro.css';
+import './components/styles/Ramiro.css';
 import MySection from './components/styles/section';
 
 
