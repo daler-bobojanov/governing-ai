@@ -14,11 +14,9 @@ const DalerComponent2 = () => {
                     <p>
                         The right to freedom of expression is a cornerstone of fundamental human rights found in Article 19 of both the Universal Declaration and the ICCPR.46
                     </p>
-
                     <p>
                         As social media platforms become the central place where public discussion happens, there is a strong debate about the role of platforms in content moderation.47 With hate speech, false news, and media manipulation circulating on platforms like Facebook and Twitter, legislators and the public are calling for companies to address the problem.
                     </p>
-
                 </div>
             </section>
 
