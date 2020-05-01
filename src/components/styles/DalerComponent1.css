@@ -128,7 +128,7 @@ text-transform: uppercase;
 
     .container > p {
         padding: 25px;
-        /* font-family: 'Open Sans', sans-serif; */
+        font-family: 'Open Sans', sans-serif;
     }
 
     .container-test {
@@ -140,7 +140,7 @@ text-transform: uppercase;
 
     .container-test > p {
         padding: 30px;
-        /* font-family: 'Open Sans', sans-serif; */
+        font-family: 'Open Sans', sans-serif;
     }
 
     .quote {
