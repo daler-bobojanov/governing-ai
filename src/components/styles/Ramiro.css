@@ -1,0 +1,29 @@
+.App {
+    display: grid;
+    
+    height:1000px;
+    width: 1500px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 35% 65%;
+    
+    height: 1000px;
+    width: 1500px;
+}
+.child1 {
+    display: grid;
+
+    background-color:beige;
+}
+.child2 {
+    display: grid;
+    
+    background:url(https://wallpaperaccess.com/full/1398313.jpg)50% fixed;
+    
+    border-radius: 10%;
+}
+.title {
+    font-style: italic;
+}

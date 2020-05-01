@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    background-color: red;
+    height:1000px;
+    width: 1500px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    background-color: purple;
+    height: 1000px;
+    width: 1500px;
+}
+.child1 {
+    display: flex;
+    flex: 20%;
+    background-color: blue;
+}
+.child2 {
+    display: flex;
+    flex: 80%;
+    background: url('assets/background.jpg') content-box;
+}
