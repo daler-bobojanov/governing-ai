@@ -7,7 +7,7 @@ class Politic extends Component {
   render() {
     return (
       <div className="card-politics">
-        <div className="container">
+        <div className="container-jiaxi">
           <div>
             <h1> Political Participation </h1>
             <p>

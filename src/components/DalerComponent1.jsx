@@ -5,7 +5,7 @@ const DalerComponent1 = () => {
     return (
         <div>
             <section className="wrapper1">
-                <div className="container">
+                <div className="container-daler">
                     <hr />
                     <h2 className="title">Privacy</h2>
                     <p>
@@ -24,7 +24,7 @@ const DalerComponent1 = () => {
             </section>
 
             <section className="wrapper2">
-                <div className="container">
+                <div className="container-daler">
                     <h2 className="title">Privacy</h2>
                     <p>
                         Another example is Amazon’s AI-powered facial recognition software, which was made widely available in 2016. In July 2018, American Civil Liberties Union (ACLU) researchers ran an experiment matching pictures of all 535 members of Congress to a database of 25,000 public images of arrested individuals. Researchers found that the software not only produced 28 false matches but was also racially biased. Since Amazon has sold this

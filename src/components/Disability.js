@@ -9,7 +9,7 @@ class Disability extends Component {
   render() {
     return (
       <div className="card-disability">
-        <div className="container">
+        <div className="container-jiaxi">
           <div>
             <h1>Disability</h1>
             <p>

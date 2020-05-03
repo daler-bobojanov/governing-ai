@@ -1,152 +1,159 @@
-@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Open+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Open+Sans&display=swap");
 
 .wrapper1 {
-    background: url(https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif) 100% fixed;
-    background-repeat: no-repeat;
-    background-size: 1012px 900px;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    display: grid;
-    grid-template-columns: 35% 65%;
-    gap: 12px; 
+  background: url(https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif)
+    100% fixed;
+  background-repeat: no-repeat;
+  background-size: 1012px 900px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: grid;
+  grid-template-columns: 35% 65%;
+  gap: 12px;
 }
 
-.container {
-    background-color: white;
-    padding: 30px 20px;
-    height: auto;
+.container-daler {
+  background-color: white;
+  padding: 30px 20px;
+  height: auto;
 }
 
-.container > p {
-    padding: 23px;
-    font-family: 'Open Sans', sans-serif;
+.container-daler > p {
+  padding: 23px;
+  font-family: "Open Sans", sans-serif;
 }
 
 .wrapper2 {
-    background: url(https://cdn.dribbble.com/users/1116528/screenshots/6783134/_3.gif) 100% fixed;
+  background: url(https://cdn.dribbble.com/users/1116528/screenshots/6783134/_3.gif)
+    100% fixed;
+  background-repeat: no-repeat;
+  background-size: 1012px 900px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: grid;
+  grid-template-columns: 35% 65%;
+  gap: 12px;
+}
+
+.quote {
+  color: green;
+  font-weight: bold;
+  border-top: green 1px solid;
+  border-bottom: green 1px solid;
+}
+
+.title {
+  font-family: "Audiowide", cursive;
+  text-transform: uppercase;
+}
+
+.wrapper3 {
+  background: url(https://www.cds.net/res/global/images/blog/Jun26.gif) 100%
+    fixed;
+  background-repeat: no-repeat;
+  background-size: 1012px 900px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: grid;
+  grid-template-columns: 35% 65%;
+  gap: 12px;
+}
+
+.wrapper4 {
+  background: url(https://cdn.dribbble.com/users/205964/screenshots/6002888/scene-1-drib.gif)
+    100% fixed;
+  background-repeat: no-repeat;
+  background-size: 1012px 900px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: grid;
+  grid-template-columns: 35% 65%;
+  gap: 12px;
+}
+
+@media screen and (min-width: 1605px) {
+  .wrapper1 {
+    background: url(https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif)
+      100% fixed;
     background-repeat: no-repeat;
-    background-size: 1012px 900px;
+    background-size: 1600px 1050px;
     margin: 0;
     padding: 0;
     border: 0;
     display: grid;
-    grid-template-columns: 35% 65%;
-    gap: 12px; 
-}
- 
-.quote {
+    grid-template-columns: 24% 76%;
+    gap: 12px;
+  }
+
+  .wrapper2 {
+    background: url(https://cdn.dribbble.com/users/1116528/screenshots/6783134/_3.gif)
+      100% fixed;
+    background-repeat: no-repeat;
+    background-size: 1600px 1050px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: grid;
+    grid-template-columns: 24% 76%;
+    gap: 12px;
+  }
+
+  .wrapper3 {
+    background: url(https://www.cds.net/res/global/images/blog/Jun26.gif) 100%
+      fixed;
+    background-repeat: no-repeat;
+    background-size: 1600px 1050px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: grid;
+    grid-template-columns: 24% 76%;
+    gap: 12px;
+  }
+
+  .wrapper4 {
+    background: url(https://cdn.dribbble.com/users/205964/screenshots/6002888/scene-1-drib.gif)
+      100% fixed;
+    background-repeat: no-repeat;
+    background-size: 1600px 1050px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: grid;
+    grid-template-columns: 24% 76%;
+    gap: 12px;
+  }
+
+  .container-daler {
+    background-color: white;
+    padding: 52px 40px;
+    height: auto;
+  }
+
+  .container-daler > p {
+    padding: 25px;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .container-test {
+    background-color: white;
+    padding: 62px 40px;
+    height: auto;
+  }
+
+  .container-test > p {
+    padding: 30px;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .quote {
     color: green;
     font-weight: bold;
     border-top: green 1px solid;
     border-bottom: green 1px solid;
-}
-
-.title {
-font-family: 'Audiowide', cursive;
-text-transform: uppercase;
-}
-
-.wrapper3 {
-    background: url(https://www.cds.net/res/global/images/blog/Jun26.gif) 100% fixed;
-    background-repeat: no-repeat;
-    background-size: 1012px 900px;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    display: grid;
-    grid-template-columns: 35% 65%;
-    gap: 12px; 
-}
-
-.wrapper4 {
-    background: url(https://cdn.dribbble.com/users/205964/screenshots/6002888/scene-1-drib.gif) 100% fixed;
-    background-repeat: no-repeat;
-    background-size: 1012px 900px;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    display: grid;
-    grid-template-columns: 35% 65%;
-    gap: 12px; 
-}
-
-@media screen and (min-width: 1605px) {
-    .wrapper1 {
-        background: url(https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif) 100% fixed;
-        background-repeat: no-repeat;
-        background-size: 1600px 1050px;
-        margin: 0;
-        padding: 0;
-        border: 0;
-        display: grid;
-        grid-template-columns: 24% 76%;
-        gap: 12px; 
-    }
-
-    .wrapper2 {
-        background: url(https://cdn.dribbble.com/users/1116528/screenshots/6783134/_3.gif) 100% fixed;
-        background-repeat: no-repeat;
-        background-size: 1600px 1050px;
-        margin: 0;
-        padding: 0;
-        border: 0;
-        display: grid;
-        grid-template-columns: 24% 76%;
-        gap: 12px; 
-    }
-
-    .wrapper3 {
-        background: url(https://www.cds.net/res/global/images/blog/Jun26.gif) 100% fixed;
-        background-repeat: no-repeat;
-        background-size: 1600px 1050px;
-        margin: 0;
-        padding: 0;
-        border: 0;
-        display: grid;
-        grid-template-columns: 24% 76%;
-        gap: 12px; 
-    }
-
-    .wrapper4 {
-        background: url(https://cdn.dribbble.com/users/205964/screenshots/6002888/scene-1-drib.gif) 100% fixed;
-        background-repeat: no-repeat;
-        background-size: 1600px 1050px;
-        margin: 0;
-        padding: 0;
-        border: 0;
-        display: grid;
-        grid-template-columns: 24% 76%;
-        gap: 12px; 
-    }
-
-    .container {
-        background-color: white;
-        padding: 52px 40px;
-        height: auto;
-    }
-
-    .container > p {
-        padding: 25px;
-        font-family: 'Open Sans', sans-serif;
-    }
-
-    .container-test {
-        background-color: white;
-        padding: 62px 40px;
-        height: auto;
-
-    }
-
-    .container-test > p {
-        padding: 30px;
-        font-family: 'Open Sans', sans-serif;
-    }
-
-    .quote {
-        color: green;
-        font-weight: bold;
-        border-top: green 1px solid;
-        border-bottom: green 1px solid;
-    }
+  }
 }

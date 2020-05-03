@@ -5,7 +5,7 @@ const DalerComponent2 = () => {
   return (
     <div>
       <section className="wrapper3">
-        <div className="container container-test">
+        <div className="container-daler container-test">
           <hr />
           <h2 className="title">Freedom of Expression</h2>
           <p>
@@ -42,7 +42,7 @@ const DalerComponent2 = () => {
       </section>
 
       <section className="wrapper4">
-        <div className="container container-test">
+        <div className="container-daler container-test">
           <h2 className="title">Freedom of Expression</h2>
           <p>
             These calls to action are met with concerns about how private
