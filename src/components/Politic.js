@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import fakenews from "../assets/fakenews.jpg";
+import './styles/Jiaxi.css'
 
 class Politic extends Component {
   state = {};
