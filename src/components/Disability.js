@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import un from "../assets/un.jpg";
-import './styles/Jiaxi.css'
+import './styles/Jiaxi.css';
 
 
 

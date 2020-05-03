@@ -1,8 +1,7 @@
 import React from "react";
 import "./components/styles/Ramiro.css";
 import MySection from "./components/styles/section";
-import "./styles/Jiaxi.css";
-
+import "./components/styles/Jiaxi.css";
 import DalerComponent1 from "./components/DalerComponent1";
 import DalerComponent2 from "./components/DalerComponent2";
 import "./App.css";
