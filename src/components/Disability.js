@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import un from "../assets/un.jpg";
-import './styles/Jiaxi.css';
-
-
+import "./styles/Jiaxi.css";
 
 class Disability extends Component {
   state = {};
@@ -94,7 +92,7 @@ class Disability extends Component {
             </p>
           </div>
           <div>
-            <img src={un} alt="" width="250px"></img>
+            <img src={un} alt="" width="490px"></img>
           </div>
         </div>
       </div>

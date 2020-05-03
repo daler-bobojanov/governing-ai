@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import fakenews from "../assets/fakenews.jpg";
-import './styles/Jiaxi.css';
+import "./styles/Jiaxi.css";
 
 class Politic extends Component {
   state = {};
@@ -52,7 +52,7 @@ class Politic extends Component {
             </p>
           </div>
           <div className="fakenews-picture">
-            <img src={fakenews} alt="" width="300px"></img>
+            <img src={fakenews} alt="" width="490px"></img>
           </div>
         </div>
       </div>
